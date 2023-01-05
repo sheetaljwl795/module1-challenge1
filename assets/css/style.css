@@ -152,7 +152,7 @@ p {
         max-width: 150px;
     }
   
-  @media screen and (max-width: 400px) {
+  /* @media screen and (max-width: 400px) {
     .header a {
       float:left;
       display: block;
@@ -182,7 +182,7 @@ h2 {
 h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
 .search-engine-optimization {
     margin-bottom: 20px;
